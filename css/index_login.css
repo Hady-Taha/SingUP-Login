@@ -1,0 +1,17 @@
+.slider{
+    height: 100vh;
+    background-image: url(../image/Login.svg);
+    background-position: center;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 600px) {
+  .form-sm{
+        background-image: url(../image/Login.svg);
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 100vh;
+
+    }
+ }
